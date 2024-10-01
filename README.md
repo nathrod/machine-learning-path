@@ -3,7 +3,7 @@ This repository contains a collection of machine learning projects that I am dev
 
 ## Projects
 1. __Cats vs Dogs Image Classification using Transfer Learning__
-   - __Description:__ This project involves using transfer learning to classify images of cats and dogs. Pre-trained models such as MobileNetV2 will be applied to achieve high accuracy with minimal training time.
+   - __Description:__ This project involves using transfer learning to classify images of cats and dogs. Pre-trained models such as MobileNetV2 will be applied to achieve high accuracy with minimal training time. This project is based on concepts learned from [TensorFlow's Transfer Learning tutorial](https://www.tensorflow.org/tutorials/images/transfer_learning).
    - __Objective:__ Understand transfer learning and how to apply pre-trained models for image classification tasks.
    - __Tools:__ Python, TensorFlow/Keras, Google Colab, Transfer Learning (MobileNetV2).
 
